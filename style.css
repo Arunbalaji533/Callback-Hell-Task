@@ -1,0 +1,28 @@
+*{
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-left:10px;
+    margin-right:10px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:10px;
+    padding-right:10px;
+}
+body{
+    background-image: url(https://akm-img-a-in.tosshub.com/businesstoday/styles/medium_crop_simple/public/images/story/202108/screenshot-2021-08-14-174155_0.jpg?itok=E-Jssbwj);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    background-size:cover;
+}
+
+h1{
+    color: greenyellow;
+    position: relative;
+    margin-top: 23%;
+    font-weight: 800;
+    font-size: 60px;
+}
+body{
+    text-align: center;
+    align-content: center;
+}
